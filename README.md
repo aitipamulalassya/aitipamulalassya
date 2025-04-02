@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lassyaaitipamula ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lassya2004@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/lassya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lassyaaitipamula ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lassya2004@gmail.com) 
+<a href="https://leetcode.com/u/lassya">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width="90">
+</a>
+
 
 
 # 💻 Tech Stack:
